@@ -138,6 +138,24 @@
         background-color: #D9d9d9;
         background-image: url("images/IMG_1172.jpg")
     }
+
+    #textOne {
+        grid-column: 1;
+        grid-row: 2;
+        text-align: center;
+    }
+
+    #textTwo {
+        grid-column: 2;
+        grid-row: 1;
+        text-align: center;
+    }
+
+    #textThree {
+        grid-column: 3;
+        grid-row: 2;
+        text-align: center;
+    }
 }
 
 #M2RCOL {
